@@ -14,7 +14,7 @@ A personal repository for practicing and implementing Neural Networks with Keras
 ---
 
 ### 🚀 Quick Setup
-1.  `git clone https://github.com/your-username/kerasApi.git`
+1.  `git clone https://github.com/Rezas900/Kearsapi.git`
 2.  `python -m venv .venv && source .venv/bin/activate` (Use `.\.venv\Scripts\activate` for Windows)
 3.  `pip install -r requirements.txt`
 
